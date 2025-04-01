@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
+title:  "Recensione Locanda Ai Portici"
+author: jacopo
+categories: [ restaurant ]
+tags: [Locanda, Verona]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "La nostra recensione di una locale vicino ai portici"
 featured: true
-hidden: true
+hidden: false
 rating: 4.5
 ---
 
@@ -20,12 +20,12 @@ It's actually really simple! Add the rating in your YAML front matter. It also s
 ```html
 ---
 layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
+title:  "Locanda Ai Portici"
+author: jacopo
+categories: [ restaurant ]
+tags: [Locanda, Verona]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
+description: "La nostra recensione di una locale vicino ai portici"
 rating: 4.5
 ---
 ```
